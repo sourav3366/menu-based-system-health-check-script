@@ -26,7 +26,7 @@ Understanding system health checks is **crucial** for maintaining **high reliabi
 ## 🛠️ How to Use
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/system-health-check.git
+   git clone https://github.com/sourav3366/menu-based-system-health-check-script.git
    ```
 2. Navigate to the project directory:
    ```bash
